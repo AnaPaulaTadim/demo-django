@@ -35,3 +35,23 @@ Também foram realizadas as seguintes atividades:
 #### Exibição da categoria no template
 
 ![Exibição da categoria no template](docs/exibir-categoria-template.png)
+
+### Roteiro 4 — Criando modelos e relacionamento muitos-para-muitos com Django
+
+Neste roteiro, foi criado o modelo `Tag` e estabelecido um relacionamento muitos-para-muitos (`ManyToManyField`) com o modelo `Mensagem`.
+
+Também foram realizadas as seguintes atividades:
+
+- Cadastro e gerenciamento de tags pelo painel administrativo do Django.
+- Associação de várias tags a uma mensagem.
+- Configuração do campo de seleção de tags no painel administrativo.
+- Exibição das tags na página inicial utilizando templates Django.
+- Teste dos relacionamentos direto e inverso pelo Django Shell.
+
+#### Cadastro de tags pelo painel administrativo
+
+![Adicionando tag](<docs/adicionando tag.png>)
+
+#### Exibição das tags no site
+
+![Tags no site](<docs/tag site.png>)
