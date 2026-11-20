@@ -1,4 +1,4 @@
-# Projeto Django — Ana Paula Tadim
+# Projeto Django
 
 **Nome:** Ana Paula dos Santos Tadim  
 **Matrícula:** 23.2.4115  
